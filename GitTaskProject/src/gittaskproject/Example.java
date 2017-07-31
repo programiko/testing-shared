@@ -16,7 +16,7 @@ public class Example {
         }
         
         public static String Nenad(){
-            throw new RuntimeException();
+            return "kandilo";
         }
         
         public static String Dijana(){
