@@ -24,7 +24,7 @@ public class Example {
         }
         
         public static String Ana() {
-            throw new RuntimeException();
+            return tanjir;
         }
         
         public static String Ivan() {
