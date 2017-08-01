@@ -20,7 +20,7 @@ public class Example {
         }
         
         public static String Diana(){
-            return "lopta";
+            throw new RuntimeException();
         }
         
         public static String Ana() {
