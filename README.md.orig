@@ -1,0 +1,10 @@
+# testing-shared
+
+#testing-commit
+
+<<<<<<< HEAD
+// wtf
+=======
+
+#testing-branch
+>>>>>>> origin/testingBranch
