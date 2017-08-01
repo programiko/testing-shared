@@ -43,7 +43,7 @@ public class Example {
             throw new RuntimeException();
         }
         
-        public static String Milan() {
+        public static String Danilo() {
             throw new RuntimeException();
         }
         
