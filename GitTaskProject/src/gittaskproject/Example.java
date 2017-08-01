@@ -24,7 +24,7 @@ public class Example {
         }
         
         public static String Ana() {
-            return tanjir;
+            return "tanjir";
         }
         
         public static String Ivan() {
