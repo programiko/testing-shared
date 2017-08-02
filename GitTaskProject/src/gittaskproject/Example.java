@@ -40,7 +40,7 @@ public class Example {
         }
         
         public static String Marko() {
-            throw new RuntimeException();
+            return "javnost";
         }
         
         public static String Danilo() {
