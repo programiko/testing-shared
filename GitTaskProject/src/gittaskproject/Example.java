@@ -44,7 +44,7 @@ public class Example {
         }
         
         public static String Danilo() {
-            throw new RuntimeException();
+            return "vraticu se";
         }
         
         public static String ConcatenateAll(){
