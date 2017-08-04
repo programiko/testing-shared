@@ -1,4 +1,4 @@
-/*
+﻿/*
  Svi znaju igru kaladont. Svako kaÅ¾e reÄ� koja poÄ�inje sa zadnja dva slova prethodne reÄ�i.
 Zadatak je da svako napiÅ¡e metod koji Ä‡e da Å¡tampa svoju reÄ� na prethodnu.
 Naravno da ne moÅ¾ete svi odjednom da implementirate svoj metod veÄ‡ jedan po jedan redom kako su poreÄ‘ani metodi da biste znali 
@@ -30,8 +30,12 @@ public class Example {
            return "iteracija";
         }
         
+	public static String Marko() {
+            return "javnost";
+        }
+	
         public static String Ivan() {
-            throw new RuntimeException();
+            return "stomaklija";
         }
         
         
@@ -39,16 +43,12 @@ public class Example {
             throw new RuntimeException();
         }
         
-        public static String Marko() {
-            return "javnost";
-        }
-        
         public static String Danilo() {
             throw new RuntimeException();
         }
         
         public static String ConcatenateAll(){
-            return InitialWord() + " " + Nenad() + " " + Diana() + " " + Ana() + " " + Ivan() + " " + Radenko() + " " + Dusko() + " " + Marko () + " " + Milan();
+            return InitialWord() + " " + Nenad() + " " + Diana() + " " + Ana() + " " + Radenko() + " " + Marko() + " " + Ivan() + " " + Dusko() + " " + Danilo();
         }
                 
     }
