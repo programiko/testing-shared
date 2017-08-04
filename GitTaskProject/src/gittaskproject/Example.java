@@ -44,7 +44,7 @@ public class Example {
         }
         
         public static String Danilo() {
-            return "vraticu se";
+            return "starac";
         }
         
         public static String ConcatenateAll(){
